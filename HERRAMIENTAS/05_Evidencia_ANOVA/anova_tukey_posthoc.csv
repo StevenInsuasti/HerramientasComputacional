@@ -1,0 +1,11 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+American (New),American (Traditional),-0.1745,0.0,-0.1849,-0.1641,True
+American (New),Bars,-0.096,0.0,-0.1064,-0.0856,True
+American (New),Breakfast & Brunch,0.0453,0.0,0.0342,0.0564,True
+American (New),Mexican,-0.1044,0.0,-0.1154,-0.0934,True
+American (Traditional),Bars,0.0785,0.0,0.0682,0.0888,True
+American (Traditional),Breakfast & Brunch,0.2198,0.0,0.2088,0.2308,True
+American (Traditional),Mexican,0.0701,0.0,0.0592,0.081,True
+Bars,Breakfast & Brunch,0.1413,0.0,0.1303,0.1523,True
+Bars,Mexican,-0.0084,0.2225,-0.0193,0.0025,False
+Breakfast & Brunch,Mexican,-0.1497,0.0,-0.1613,-0.1381,True
